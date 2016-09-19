@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Eric Thomas",
+    "label": "Software Engineer",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/12974507_10100966265014276_4151106640249840321_n.jpg?oh=135dc62f4ee5e22fe2fe9c14e505c292&oe=582606A8",
+    "email": "eric.l.m.thomas@gmail.com",
+    "phone": "(609) 744-3419",
+    "website": "http://elmthomas.com",
+    "summary": "Professional full-stack engineer full of charisma and a passion for project completion.",
+    "location": {
+      "address": "3845 Martin Dr.",
+      "postalCode": "CO 80305",
+      "city": "Boulder",
+      "countryCode": "US",
+      "region": "Colorado"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "et",
+        "url": "github.com/et"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Pardot/Salesforce",
+      "position": "Frontend Engineer",
+      "website": "https://pardot.com",
+      "startDate": "2013-10-31",
+      "endDate": "2016-06-17",
+      "summary": "Pardot is a B2B marketing automation platform that enables marketers to operate their entire business with tight integration with Salesforce. Primary role was dedicated to building Engagement Studio, a highly interactive, fun to use application to visualize potential prospects into buyers.",
+      "highlights": [
+        "Modern ES6 Javascript development built primarly with Ember.js and d3.js",
+        "Extensive test coverage and bullet-proof code reviews",
+        "Strengthed communication with product managers, UX/UI, engineers, and customers",
+        "Practiced hardened agile principles by fostering team coordination and morale serving as part-time scrum master"
+      ]
+    },
+    {
+      "company": "Aspera",
+      "position": "Full Stack Engineer",
+      "website": "http://asperasoft.com/",
+      "startDate": "2011-05-01",
+      "endDate": "2013-10-01",
+      "summary": "Core development on Faspex, a Rails and AngularJS application to transmit very large files over a UDP protocol with reliability and security in mind.",
+      "highlights": [
+        "Championed rapid iteration on both sides of the web development stack",
+        "Improved test coverage significantly with RSpec, Jasmine, Capybara, and Selenium",
+        "Executed migration from Rails 2.3 to 3.1.0 and Ruby 1.8.7 to 1.9.3",
+        "Accelerated deployment of patches for security vulnerabilities"
+      ]
+    },
+    {
+      "company": "Federal Aviation Administration",
+      "position": "Computer Scientist",
+      "website": "http://www.faa.gov/",
+      "startDate": "2009-05-01",
+      "endDate": "2011-05-01",
+      "summary": "Contributed in building DESIREE, a simulated air traffic environment used to recreate past, present, and future airspaces. ",
+      "highlights": [
+        "Advanced Datalink, a simulated \"text messaging\" system between controller and pilot to replace voice-only communications",
+        "Wrote various data capturing plugins to calculate air traffic within a given region of airspace",
+        "Migrated system from 32 bit to 64 bit architecture"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "One Glove",
+      "position": "Founder, Marketer, everything",
+      "website": "http://oneglove.love/",
+      "startDate": "2016-09-01",
+      "summary": "Community driven project to reclaim missing gloves for the homeless"
+    },
+    {
+      "organization": "Montana Wilderness Association",
+      "position": "Volunteer",
+      "website": "http://wildmontana.org/",
+      "startDate": "2012-08-01",
+      "summary": "Trail crew volunteer on the Continental Divide Trail for the last four summers"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rowan University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2005-09-01",
+      "endDate": "2009-05-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "Ruby",
+        "HTML5",
+        "CSS3",
+        "Elixir",
+        "Elm",
+        "bash",
+        "PHP",
+        "C++",
+        "Java",
+        "TCL"
+      ]
+    },
+    {
+      "name": "Frameworks/Databases",
+      "level": "",
+      "keywords": [
+        "Ember.js",
+        "Rails",
+        "AngularJS",
+        "Symfony",
+        "Phoenix",
+        "MySQL",
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "",
+      "keywords": [
+        "Bootstrap",
+        "jQuery",
+        "d3.js",
+        "Foundation"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Bamboo",
+        "Jenkins",
+        "JIRA",
+        "Vagrant",
+        "Docker",
+        "Github",
+        "Git",
+        "SVN",
+        "Gulp",
+        "Grunt",
+        "vim"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Trail running, alpine climbing, backpacking, volunteering, karaoke, breakfast, and microbrews.",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

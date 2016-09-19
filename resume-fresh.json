@@ -1,0 +1,159 @@
+{
+  "name": "Eric Thomas",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "info": {},
+  "contact": {
+    "website": "http://elmthomas.com",
+    "phone": "(609) 744-3419",
+    "email": "eric.l.m.thomas@gmail.com"
+  },
+  "location": {
+    "city": "Boulder",
+    "region": "Colorado",
+    "country": "US",
+    "code": "CO 80305",
+    "address": "3845 Martin Dr."
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Frontend Engineer",
+        "employer": "Pardot/Salesforce",
+        "summary": "Pardot is a B2B marketing automation platform that enables marketers to operate their entire business with tight integration with Salesforce. Primary role was dedicated to building Engagement Studio, a highly interactive, fun to use application to visualize potential prospects into buyers.",
+        "start": "2013-10-31",
+        "end": "2016-06-17",
+        "url": "https://pardot.com",
+        "keywords": [],
+        "highlights": [
+          "Modern ES6 Javascript development built primarly with Ember.js and d3.js",
+          "Extensive test coverage and bullet-proof code reviews",
+          "Strengthed communication with product managers, UX/UI, engineers, and customers",
+          "Practiced hardened agile principles by fostering team coordination and morale serving as part-time scrum master"
+        ]
+      },
+      {
+        "position": "Full Stack Engineer",
+        "employer": "Aspera",
+        "summary": "Core development on Faspex, a Rails and AngularJS application to transmit very large files over a UDP protocol with reliability and security in mind.",
+        "start": "2011-05-01",
+        "end": "2013-10-01",
+        "url": "http://asperasoft.com/",
+        "keywords": [],
+        "highlights": [
+          "Championed rapid development on both sides of the web development stack",
+          "Improved test coverage significantly with RSpec, Jasmine, Capybara, and Selenium",
+          "Executed migration from Rails 2.3 to 3.1.0 and Ruby 1.8.7 to 1.9.3",
+          "Accelerated deployment of patches for security vulnerabilities"
+        ]
+      },
+      {
+        "position": "Computer Scientist",
+        "employer": "Federal Aviation Administration",
+        "summary": "Contributed in building DESIREE, a simulated air traffic environment used to recreate past, present, and future airspaces. ",
+        "start": "2009-05-01",
+        "end": "2011-05-01",
+        "url": "http://www.faa.gov/",
+        "keywords": [],
+        "highlights": [
+          "Advanced Datalink, a simulated \"text messaging\" system between controller and pilot to replace voice-only communications",
+          "Wrote various data capturing plugins to calculate air traffic within a given region of airspace",
+          "Migrated system from 32 bit to 64 bit architecture"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Rowan University",
+        "start": "2005-09-01",
+        "end": "2009-05-01",
+        "grade": "",
+        "curriculum": [],
+        "summary": "",
+        "area": "Computer Science",
+        "studyType": "Bachelor of Science"
+      }
+    ]
+  },
+  "service": {},
+  "skills": {
+    "sets": [
+      {
+        "name": "Languages",
+        "level": "",
+        "skills": [
+          "Javascript",
+          "Ruby",
+          "HTML",
+          "CSS",
+          "MySQL",
+          "Elixir",
+          "Elm",
+          "bash",
+          "C++",
+          "Java",
+          "TCL"
+        ]
+      },
+      {
+        "name": "Frameworks",
+        "level": "",
+        "skills": [
+          "Ember.js",
+          "Rails",
+          "AngularJS",
+          "Symfony",
+          "Phoenix"
+        ]
+      },
+      {
+        "name": "Libraries",
+        "level": "",
+        "skills": [
+          "Bootstrap",
+          "jQuery",
+          "d3.js",
+          "Foundation"
+        ]
+      },
+      {
+        "name": "Tools",
+        "level": "",
+        "skills": [
+          "Bamboo",
+          "Jenkins",
+          "JIRA",
+          "Vagrant",
+          "Docker",
+          "Github",
+          "git",
+          "SVN",
+          "gulp",
+          "grunt"
+        ]
+      }
+    ]
+  },
+  "writing": [],
+  "social": [
+    {
+      "label": "github",
+      "network": "github",
+      "url": "github.com/et",
+      "user": "et"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Trail running, alpine climbing, backpacking, volunteering, karaoke, breakfast, and microbrews.",
+      "keywords": []
+    }
+  ],
+  "testimonials": 0,
+  "languages": []
+}
